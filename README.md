@@ -16,8 +16,15 @@ The default values are:
 
 
 The parameter dataset can take two values: acl-arc or scicite
+
+
+
 The parameter model can take the following values: 
+
 CitationBERT - fine tuning BERT on citation prediction
+
 CitationGAT - training GAT on citation prediction
+
 CitationBERTGAT - our GraphCite model
+
 CitationMLP - a simple MLP layer on top of the titles embeddings
