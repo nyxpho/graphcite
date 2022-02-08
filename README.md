@@ -1,4 +1,4 @@
-# graphcite
+# GraphCite
 The code and data for citation intent prediction.
 We provide models for doing citation intent prediction on ACL-ARC and SciCite datasets. To run the code please install the libraries specified in requirements.txt
 
